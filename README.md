@@ -44,6 +44,5 @@ Instale o Minikube seguindo as instruções no [site oficial](https://minikube.s
 kubernets_estudos/
 ├── README.md
 ├── docs/
-├── examples/
 ├── scripts/
 └── .gitignore
